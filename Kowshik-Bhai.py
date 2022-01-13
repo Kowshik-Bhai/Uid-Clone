@@ -3,7 +3,7 @@
  
 #USE YOUR BRAIN MAKE GOOGLE YOUR FRIEND :)
 #
-#input('Alif Vau Will Started Now')
+#input('Kowshik-Bhai Will Started Now')
 import os
 try:
   import requests
