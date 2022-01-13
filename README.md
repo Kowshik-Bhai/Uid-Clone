@@ -1,4 +1,4 @@
-All Command
+»» All Command
 
 $ pkg update
 
