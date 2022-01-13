@@ -21,3 +21,5 @@ $ git clone https://github.com/Kowshik-Bhai/Uid-Clone
 $ cd Uid-Clone
 
 $ python2 Kowshik-Bhai.py
+
+![Screenshot_20220113-213511](https://user-images.githubusercontent.com/97305390/149369356-dcf37f64-a84b-4aa3-8fb0-f7e952872e7c.png)
